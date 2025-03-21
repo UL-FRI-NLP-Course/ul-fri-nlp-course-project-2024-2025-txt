@@ -10,5 +10,5 @@ This project focuses on analyzing and comparing translation errors and biases in
 3. REFERENCES
    
    Roberto Navigli, Simone Conia, and Björn Ross. 2023. Biases in Large Language Models: Origins, Inventory, and Discussion. J. Data and Information Quality 15, 2, Article 10 (June
-   2023). https://doi.org/10.1145/3597307
+   2023). https://doi.org/10.1145/3597307<br>
    Barclay, P. J., & Sami, A. (2024). Investigating Markers and Drivers of Gender Bias in Machine Translations. arXiv.Org, abs/2403.11896. https://doi.org/10.48550/arxiv.2403.11896
