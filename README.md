@@ -6,10 +6,10 @@ This project focuses on analyzing and comparing translation errors and biases in
 
 2. MEMBERS
    
-   Tjaša Nadoh
+   Tjaša Nadoh<br>
    Urška Roblek
 
-3. REFERENCES
+4. REFERENCES
    
 Roberto Navigli, Simone Conia, and Björn Ross. 2023. Biases in Large Language Models: Origins, Inventory, and Discussion. J. Data and Information Quality 15, 2, Article 10 (June 2023). https://doi.org/10.1145/3597307
 
