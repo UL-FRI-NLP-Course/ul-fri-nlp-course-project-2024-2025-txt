@@ -7,7 +7,6 @@ This project focuses on analyzing and comparing translation errors and biases in
 2. MEMBERS
    
    Tjaša Nadoh
-   
    Urška Roblek
 
 3. REFERENCES
