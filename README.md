@@ -18,16 +18,16 @@ The purpose of this project is to analyze and compare translation errors and bia
   
 4. CRITERIA USED FOR TRANSLATION
 Sentences were compared by:
-- lexical fidelity,
-- tone shifts (emphasis or neutralization),
-- addition or omission of ideological markers.
+   - lexical fidelity,
+   - tone shifts (emphasis or neutralization),
+   - addition or omission of ideological markers.
 
 Translation changes were categorized by:
-- neutralization (softening emotionally charged words),
-- shift (reframing with political implication),
-- preservation (faithful to source text),
-- no answer (model did not provide a translation),
-- incorrect translation (incomprehensible translation).
+   - neutralization (softening emotionally charged words),
+   - shift (reframing with political implication),
+   - preservation (faithful to source text),
+   - no answer (model did not provide a translation),
+   - incorrect translation (incomprehensible translation).
 
 5. HOW TO RUN THE PROJECT<br>
 step 1: translate the text
