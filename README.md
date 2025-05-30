@@ -16,7 +16,7 @@ The purpose of this project is to analyze and compare translation errors and bia
    - report/code/Mistral.ipynb (code used for translation with MistralAI)
    - report/code/COMET.ipynb (code used for COMET evaluation)
   
-4. CRITERIA USED FOR TRANSLATION
+4. CRITERIA USED FOR TRANSLATION:<br>
 Sentences were compared by:
    - lexical fidelity,
    - tone shifts (emphasis or neutralization),
@@ -30,15 +30,15 @@ Translation changes were categorized by:
    - incorrect translation (incomprehensible translation).
 
 5. HOW TO RUN THE PROJECT<br>
-step 1: translate the text
+- step 1: translate the text
    - load translation file
    - perform translation using different models (for ChatGPT use          
      https://openai.com/chatgpt/overview/, for Deepseek use       
      https://www.deepseek.com, for MistralAI run Mistral.ipynb in Google Colab)
-step 2: evaluate translations
+- step 2: evaluate translations
    - use COMET.ipynb in Colab to get COMET evaluations
    - perform human evaluation
-step 3: analyze results
+- step 3: analyze results
    - based on COMET scores and human evaluation, make conclusions regarding translation quality across models and analyze any 
      bias that might appear in the translations
 
