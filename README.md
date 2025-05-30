@@ -17,12 +17,12 @@ The purpose of this project is to analyze and compare translation errors and bia
    - report/code/COMET.ipynb (code used for COMET evaluation)
   
 4. CRITERIA USED FOR TRANSLATION:<br>
-Sentences were compared by:
+- Sentences were compared by:
    - lexical fidelity,
    - tone shifts (emphasis or neutralization),
    - addition or omission of ideological markers.
 
-Translation changes were categorized by:
+- Translation changes were categorized by:
    - neutralization (softening emotionally charged words),
    - shift (reframing with political implication),
    - preservation (faithful to source text),
