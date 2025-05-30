@@ -36,10 +36,10 @@ The purpose of this project is to analyze and compare translation errors and bia
    - perform translation using different models (for ChatGPT use          
      https://openai.com/chatgpt/overview/, for Deepseek use       
      https://www.deepseek.com, for MistralAI run Mistral.ipynb in Google Colab)
-   - Note: in order to run MistralAI, you must create a token in Huggingface and save it as secret key under the name HF_TOKEN.
+   - Note: in order to run MistralAI, you must create a token in Huggingface and save it as secret key in Google Colab under the name HF_TOKEN.
 - step 2: evaluate translations
    - use COMET.ipynb in Colab to get COMET evaluations
-   - Note: when installing unbabel-comet, if there is an error because of numpy version, run the first    cell (pip install numpy<2.0.0) and restart session, then run the cell to install unbabel again.
+   - Note: when installing unbabel-comet, if there is an error because of numpy version, run the first cell (pip install numpy<2.0.0) and restart session, then run the cell to install unbabel again.
    - perform human evaluation
 - step 3: analyze results
    - based on COMET scores and human evaluation, make conclusions regarding translation quality across models and analyze any 
